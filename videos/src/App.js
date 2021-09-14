@@ -1,8 +1,8 @@
   
 import React, {Component} from 'react';
-import SearchBar from './SearchBar';
-import youtube from '../apis/youtube';
-import VideoList from './VideoList';
+import SearchBar from './Component/SearchBar';
+import youtube from './apis/youtube';
+import VideoList from './Component/VideoList';
 import VideoDetail from './VideoDetail';
 
 
