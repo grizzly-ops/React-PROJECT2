@@ -13,7 +13,7 @@ const Modal = props => {
         <div className="actions">{props.actions}</div>
       </div>
     </div>,
-    document.querySelector('#modal')
+    document.querySelector('#root')
   );
 };
 
